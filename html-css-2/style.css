@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+img{
+    height:350px;
+}
+
+.content{
+width: 50%;
+margin-top: 80px;
+margin-right: 60px;
+}
+p{
+    font-size: 10px;
+}
